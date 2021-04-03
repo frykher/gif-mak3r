@@ -1,0 +1,8 @@
+env/
+dist/
+build/
+.vscode/
+__pycache__/
+requirements.in
+dev-requirements.in
+gifmak3r/*.egg-info/
